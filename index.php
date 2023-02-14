@@ -1,3 +1,4 @@
+<?php
 $data = [];
 
 if(!empty($_POST)) {
