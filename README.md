@@ -7,4 +7,4 @@ Quickly and easily uncover the IP addresses and hosting information of any websi
 
 Trust us to help you uncover hidden information about any website you are interested in.
 
-By: Toolzin.com
+By Toolzin.com
