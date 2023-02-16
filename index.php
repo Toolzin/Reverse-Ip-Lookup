@@ -2,7 +2,6 @@
 $data = [];
 
 if(!empty($_POST)) {
-    $_POST['ip'] = input_clean($_POST['ip']);
 
     /* Check for any errors */
     $required_fields = ['ip'];
